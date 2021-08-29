@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666469112003",
+    "project_id": "registrationfirebase-c2aff",
+    "storage_bucket": "registrationfirebase-c2aff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666469112003:android:f2c0b9c3c028149a8baa76",
+        "android_client_info": {
+          "package_name": "com.example.registrationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666469112003-v7b94ibprmsfn8nqh3mggs3o297ji1t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN8IqPBTuBezEzWa1wNU36mZ2yx1duKiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666469112003-v7b94ibprmsfn8nqh3mggs3o297ji1t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
